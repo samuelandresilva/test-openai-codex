@@ -14,7 +14,7 @@ This API was created entirely with OpenAI Codex. It manages an in-memory list of
 - [Gradle](https://gradle.org/)
 - [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization)
 
-## Original prompt (translated from Portuguese)
+## Original prompt
 
 Create an API using Kotlin in this repository that is empty. You are free to choose the framework.
 The API must have an object with the fields: Name, Age and Gender. It must expose a POST route
